@@ -1,4 +1,4 @@
-# privatemailtophone
+# Email To Phone forwarding
 Insecure push email from a private email server to phone
 
 This brings up a daemon in the background which runs a mail client 
